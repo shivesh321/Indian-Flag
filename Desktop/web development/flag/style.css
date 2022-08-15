@@ -1,0 +1,31 @@
+.flag {
+    width: 600px;
+    margin: 200px auto;
+
+}
+
+.orange {
+    width: 600px;
+    height: 200px;
+    background-color: #FF9933;
+}
+
+.white {
+    width: 600px;
+    height: 200px;
+    background-color: #FFFFFF;
+}
+
+.green {
+    width: 600px;
+    height: 200px;
+    background-color: #128807;
+}
+
+#ashok-chakra {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
